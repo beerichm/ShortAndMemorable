@@ -1,0 +1,2 @@
+# ShortAndMemorable
+Initial repository
